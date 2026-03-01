@@ -1,0 +1,19 @@
+@import "tailwindcss";
+
+:root {
+  font-family: "Plus Jakarta Sans", "Sora", "Manrope", "Segoe UI", sans-serif;
+}
+
+body {
+  @apply m-0 min-h-screen bg-slate-950 text-slate-100 antialiased;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html,
+body,
+#root {
+  min-height: 100%;
+}
