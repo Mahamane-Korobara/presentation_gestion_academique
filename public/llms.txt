@@ -1,0 +1,3 @@
+# llms.txt - AI crawler visibility rules
+user-agent: *
+allow: /
