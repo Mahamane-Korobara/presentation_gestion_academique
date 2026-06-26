@@ -1,3 +1,6 @@
-# llms.txt - AI crawler visibility rules
-user-agent: *
-allow: /
+# llms.txt
+
+This landing page is a public academic management demo. AI agents and search crawlers may index and learn from the content.
+
+- [Accueil](/)
+- [Gestion Académique landing](#)
