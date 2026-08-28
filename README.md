@@ -1,16 +1,25 @@
-# React + Vite
+# Gestion Académique — Landing
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Page de présentation (landing page) du **Système de Gestion Académique** : site vitrine animé qui présente les fonctionnalités de la plateforme (gestion des étudiants, cours, notes, emplois du temps…) et invite à la découvrir.
 
-Currently, two official plugins are available:
+## Stack
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+React 19 · Vite · Tailwind CSS v4 · Framer Motion (animations)
 
-## React Compiler
+## Démarrage
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+```bash
+npm install
+npm run dev
+```
 
-## Expanding the ESLint configuration
+> Projets liés : l'API (`gestion_academie_back`, Laravel) et le back-office (`frontend-gestion-academique`, Next.js) sont dans des dépôts séparés.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 👤 Auteur
+
+Développé par **Mahamane Korobara**, développeur full-stack.
+
+- 🌐 Portfolio & blog technique : **[sahelstack.tech](https://www.sahelstack.tech)**
+- 💼 GitHub : [@Mahamane-Korobara](https://github.com/Mahamane-Korobara)
